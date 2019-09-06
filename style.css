@@ -297,7 +297,7 @@ header nav ul li a{
     margin: 300px 50px 0;
     display: block;
     height: 200px;
-    background-image: url('random.jpg');
+    background-image: url('img/random2.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -333,7 +333,7 @@ header nav ul li a{
     display: block;
     width: calc(100%-20px);
     height: 200px;
-    background-image: url('random.jpg');
+    background-image: url('img/random3.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
