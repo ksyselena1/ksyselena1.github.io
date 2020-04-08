@@ -626,12 +626,13 @@ section {
   font-size: 18px;
 }
 
-.services .title a {
+.services .title {
   color: #343a40;
 }
 
-.services .title a:hover {
+.services .title:hover {
   color: #149ddd;
+
 }
 
 .services .description {
